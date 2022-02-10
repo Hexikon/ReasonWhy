@@ -7,5 +7,4 @@
 
 ## 분야 : 소프트웨어
 
-### 01. 코딩 / IDE
-- [Universial IDE](Software_Coding/) : Universial IDE ( 유니버셜 IDE )는 플랫폼에 종속적인 코딩을 제외한 나머지 일반적인 스크립트 코딩를 하기위한 목적의 에디터입니다.
+- 코딩 / IDE
