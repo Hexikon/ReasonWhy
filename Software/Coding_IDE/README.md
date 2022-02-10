@@ -1,4 +1,4 @@
-# [ReasonWhy](../..) > [Software](.)
+# [ReasonWhy](/README.md) > [Software](./README.md)
 ```
 #Choosing #Reason #Software
 ```
