@@ -19,4 +19,4 @@
 - GUI : VSCODE ( 제외 )
 - GUI : INTELLIJ ( 제외 )
 - CUI : NEOVIM ( 제외 )
-- CUI : EMACS ( 제외 )
+- CUI : EMACS ( 선택 )
