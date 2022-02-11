@@ -50,7 +50,7 @@ Editor 부분에 포커스 상태에서는 Toggle이 정상적으로 이루어�
 ![image](https://user-images.githubusercontent.com/77244047/153520896-ab848e9e-9bfa-4a91-bccc-fae6ddc18f97.png)
 ![image](https://user-images.githubusercontent.com/77244047/153520910-57e18bc2-253e-41c3-ade4-8dec43dd1186.png)
 
-### CUI : 클라우드IDE ( 제외 )
+### GUI : 클라우드IDE ( 제외 )
 
 > 제외이유
 > - 모든 클라우드IDE는 원하는 프로젝트의 로컬프로그램을 연동하기 힘들다. ( 도커, 가상머신등 각종 툴 전부포함 )
