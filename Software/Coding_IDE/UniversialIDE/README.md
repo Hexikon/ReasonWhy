@@ -19,7 +19,7 @@
 - GUI : ATOM ( 제외 )
 - GUI : VSCODE ( 확인중 )
 - GUI : INTELLIJ ( 제외 )
-- CUI : NEOVIM ( 제외 )
+- CUI : VIM, NEOVIM ( 제외 )
 - CUI : EMACS ( 선택 )
 
 ## :card_index_dividers: 상세설명
@@ -49,8 +49,8 @@ Editor 부분에 포커스 상태에서는 Toggle이 정상적으로 이루어�
 
 
 
-### CUI : NEOVIM ( 제외 )
+### CUI : VIM, NEOVIM ( 제외 )
 
 > 제외이유
-> - 일반적인 GUI 에디터와 사용자 인터페이스 통합을 해야하나 VIM은 기본적으로 insert모드가 기본이 아님으로 사용자기준 통합이 어렵다.
+> - 일반적인 GUI 에디터와 사용자 인터페이스 통합을 해야하나 VIM, NEOVIM은 기본적으로 insert모드가 기본이 아님으로 CUI, GUI의 사용성 통합이 어렵다.
 > - 서버에 붙어서 사용할 때 단순하게 사용하는게 더 적절할 듯하다. ( 경쟁자 Nano )
