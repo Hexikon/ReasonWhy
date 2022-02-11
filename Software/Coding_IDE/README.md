@@ -20,3 +20,6 @@
 - GUI : INTELLIJ ( 제외 )
 - CUI : NEOVIM ( 제외 )
 - CUI : EMACS ( 선택 )
+
+## 상세설명
+### GUI : ATOM ( 제외 )
