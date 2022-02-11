@@ -18,7 +18,7 @@
 선택대상
 - GUI : ATOM ( 제외 )
 - GUI : VSCODE ( 확인중 )
-- GUI : INTELLIJ ( 확인중 )
+- GUI : INTELLIJ ( 제외 )
 - CUI : NEOVIM ( 제외 )
 - CUI : EMACS ( 선택 )
 
@@ -38,6 +38,19 @@
 Editor 부분에 포커스 상태에서는 Toggle이 정상적으로 이루어지나, 포커스가 터미널에 존재할때 Toggle되는 적절하게 되는 플러그인이 존재하지 않는다.
 ![Screen Capture 2022-02-11 at 09 23 45](https://user-images.githubusercontent.com/77244047/153519344-b0444273-6a26-4c1d-8816-2a6dfd6413b5.gif)
 
+### CUI : INTELLIJ ( 제외 )
+
+> 제외이유
+> - 제작사의 기획의도상 범용적인 IDE 가 아닌 자바에 대한 에디터이다. ( 이는 Eclipse의 대안 밖에 되지 못한다 )
+> - 각종 플러그인을 붙일 수 있지만, 여전히 기획의도상 파이썬은 PyCharm, 웹은 Webstrom과 같은 파편화되어 있다
+
+![image](https://user-images.githubusercontent.com/77244047/153520896-ab848e9e-9bfa-4a91-bccc-fae6ddc18f97.png)
+![image](https://user-images.githubusercontent.com/77244047/153520910-57e18bc2-253e-41c3-ade4-8dec43dd1186.png)
+
+
+
 ### CUI : NEOVIM ( 제외 )
 
-> 제외이유 : 일반적인 GUI 에디터와 사용자 인터페이스 통합을 해야하나 VIM은 기본적으로 insert모드가 기본이 아님으로 사용자기준 통합이 어럾다
+> 제외이유
+> - 일반적인 GUI 에디터와 사용자 인터페이스 통합을 해야하나 VIM은 기본적으로 insert모드가 기본이 아님으로 사용자기준 통합이 어렵다.
+> - 서버에 붙어서 사용할 때 단순하게 사용하는게 더 적절할 듯하다. ( 경쟁자 Nano )
