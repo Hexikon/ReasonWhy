@@ -38,7 +38,7 @@
 > - iv-terminal
 > - x-terminal
 
-Editor 부분에 포커스 상태에서는 Toggle이 정상적으로 이루어지나, 포커스가 터미널에 존재할때 Toggle되는 적절하게 되는 플러그인이 존재하지 않는다.
+Editor 부분에 포커스 상태에서는 Toggle이 정상적으로 이루어지나, 포커스가 터미널에 존재할때 Toggle이 적절하게 되는 플러그인이 존재하지 않는다.
 ![Screen Capture 2022-02-11 at 09 23 45](https://user-images.githubusercontent.com/77244047/153519344-b0444273-6a26-4c1d-8816-2a6dfd6413b5.gif)
 
 ### CUI : INTELLIJ ( 제외 )
