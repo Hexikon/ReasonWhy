@@ -20,12 +20,12 @@
 
 선택대상
 - VSCODE ( 선택 )
-- ATOM
-- IntelliJ
+- ATOM ( 제외 )
+- IntelliJ ( 제외 )
 
 ## 유니버셜 IDE for CUI
 선택상태 : 완료
 선택대상
-- VIM
-- NeoVIM
+- VIM ( 제외 )
+- NeoVIM ( 제외 )
 - Emacs ( 선택 )
