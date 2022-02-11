@@ -8,5 +8,5 @@ ReasonWhy
 
 ## :card_index_dividers: 분야 : 소프트웨어
 
-- **코딩 / IDE** : 코딩을 위한 IDE들
-  - [UniversialIDE](Software/Coding_IDE/UniversialIDE) : 범용적인 코딩을 위한 IDE
+**코딩 / IDE** : 코딩을 위한 IDE들
+- [UniversialIDE](Software/Coding_IDE/UniversialIDE) : 범용적인 코딩을 위한 IDE
