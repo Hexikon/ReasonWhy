@@ -26,6 +26,7 @@
 ### GUI : ATOM ( 제외 )
 
 > 제외이유 : 각종 플러그인에서 터미널의 Toggle이 적절하게 이루어지지 않는다
+> 
 > 확인 플러그인
 > - platformio-ide-terminal
 > - terminal-plus
