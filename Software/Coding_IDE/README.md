@@ -16,13 +16,15 @@
 현재 모바일컴퓨터(패드,폰)에서 코딩을 함에 있어서 적절한 IDE가 존재하지 않습니다. 모바일에서는 원격제어를 통한 CUI 에디터로 코딩이 가능하기에 CUI/GUI를 하나씩 선택해야합니다.
 
 ## 유니버셜 IDE for GUI
-GUI에서는 대상자가 다음과 같습니다.
 
+선택대상
 - VSCODE
 - ATOM
 - IntelliJ
 
 ## 유니버셜 IDE for CUI
 
+선택대상
+- VIM
 - NeoVIM
 - Emacs
