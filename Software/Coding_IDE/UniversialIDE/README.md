@@ -17,8 +17,8 @@
 
 선택대상
 - GUI : ATOM ( 제외 )
-- GUI : VSCODE ( 제외 )
-- GUI : INTELLIJ ( 제외 )
+- GUI : VSCODE ( 확인중 )
+- GUI : INTELLIJ ( 확인중 )
 - CUI : NEOVIM ( 제외 )
 - CUI : EMACS ( 선택 )
 
