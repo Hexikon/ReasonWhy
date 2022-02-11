@@ -8,5 +8,5 @@ ReasonWhy
 
 ## 분야 : 소프트웨어
 
-- 코딩 / IDE : 코딩을 위한 IDE들의 관계와 선택
-  - [UniversialIDE](Software/Coding_IDE/UniversialIDE)
+- 코딩 / IDE : 코딩을 위한 IDE들
+  - [UniversialIDE](Software/Coding_IDE/UniversialIDE) : 단순 기본적인 통합 IDE
