@@ -19,10 +19,13 @@
 선택상태 : 미완료
 ```
 대상
-- VSCODE ( 선택 )
 - ATOM ( 제외 )
 - IntelliJ ( 제외 )
+- VSCODE ( 선택 )
 ```
+
+## ATOM ( 제외 )
+
 ## 유니버셜 IDE for CUI
 선택상태 : 완료
 ```
